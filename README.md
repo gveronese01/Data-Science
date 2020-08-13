@@ -4,21 +4,20 @@
 </p>
 
 # Gabriel Veronese
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Profissional experiente da área do refino de petróleo através da operação das instalações, equipamentos, painéis de controle, sistemas supervisórios e de monitoramento.
+Atuo no momento em horário de regime de turno, possuo formação em Engenharia Química pela UFRGS, combinando habilidades analíticas, atenção aos detalhes e trabalhando em ambientes de equipe. Venho estudando e aprimorando conhecimentos sobre ciência de dados, machine learning e inteligência artificial, juntamente com programação em linguagem Python. 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, oil refinery, petroleum;
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-veronese-8813a1174/)
 
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
