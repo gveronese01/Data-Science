@@ -19,7 +19,7 @@ Atuo no momento em horário de regime de turno, possuo formação em Engenharia 
 ## Projetos:
 
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb (Rio de Janeiro):** https://bit.ly/3cutbpV
 
 
 ---
