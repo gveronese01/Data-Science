@@ -19,8 +19,7 @@ Atuo no momento em horário de regime de turno, possuo formação em Engenharia 
 ## Projetos:
 
 
-* **Analisando os Dados do Airbnb (Rio de Janeiro):** https://bit.ly/3cutbpV
-
+* **Analisando os Dados do Airbnb (Rio de Janeiro):** https://bit.ly/33XGKdr
 
 ---
 
