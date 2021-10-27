@@ -20,6 +20,8 @@ Atuo no momento em horário de regime de turno, possuo formação em Engenharia 
 
 
 * **Analisando os Dados do Airbnb (Rio de Janeiro):** https://bit.ly/33XGKdr
+*  **Analisando os dados de violência no Rio de Janeiro**: https://bit.ly/34lklIJ
+*  ** Analisando os dados e criando modelo para Churn de clientes**:  https://bit.ly/30Jooz1
 
 ---
 
